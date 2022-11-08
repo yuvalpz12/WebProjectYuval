@@ -1,6 +1,6 @@
 * {
-    margin: 0;
-    padding:0;
+    margin: 10px;
+    padding:10px;
 }
 h1{
     color: steelblue;
@@ -12,6 +12,8 @@ h2{
 }
 #box-1 h2{
     color: yellow;
+    font-style: italic;
+    letter-spacing: 0.3em;
 }
 #box-1{
     background-color:#333;
@@ -21,9 +23,32 @@ h2{
     margin: 20px 5px;
 }
 
+
 .box-2 {
     border: 3px solid #ccc;
     padding:20px;
     margin: 20px 5px;
 }
+a {
+    text-decoration: none;
+    color: white;
+    background-color: darkblue;
+    padding: 10px;
+    margin: 20px;
+    border: 1px black solid;
+    border-radius: 5px;
 
+
+}
+a:hover {
+    color: red;
+    background-color: white;
+}
+a:active{
+    background-color:red;
+    color:white;
+    border: 1px red solid;
+}
+a:visited {
+    background-color: purple;
+}
