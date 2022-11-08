@@ -6,13 +6,13 @@ h1{
     color: steelblue;
 }
 
-
-.red_paragraph {
-    margin-left: 10px;
-    border-color: red;
+h2{
+    color:mediumblue;
+    padding: 10px;
 }
-
-
+#box-1 h2{
+    color: yellow;
+}
 #box-1{
     background-color:#333;
     color:#fff;
@@ -20,3 +20,10 @@ h1{
     padding:20px;
     margin: 20px 5px;
 }
+
+.box-2 {
+    border: 3px solid #ccc;
+    padding:20px;
+    margin: 20px 5px;
+}
+
