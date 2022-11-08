@@ -52,3 +52,20 @@ a:active{
 a:visited {
     background-color: purple;
 }
+
+/*!* *!*/
+/*.my-form {*/
+/*    padding: 10px;*/
+/*    margin: 10px;*/
+/*}*/
+
+/*.my-form .form-group {*/
+/*    padding-bottom: 15px;*/
+/*}*/
+/*.my-form label {*/
+/*    display: block;*/
+/*}*/
+/*.my-form input [type = "text"], .my-form textarea {*/
+/*    padding: 8px;*/
+/*    width: 100%;*/
+/*}*/
