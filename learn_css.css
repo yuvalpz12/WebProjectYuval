@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding:0;
+}
+h1{
+    color: steelblue;
+}
+
+
+.red_paragraph {
+    margin-left: 10px;
+    border-color: red;
+}
+
+
